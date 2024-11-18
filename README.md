@@ -1,5 +1,5 @@
 # karma-clone
-
+<!-- New comment -->
 The aim of this exercise is to create a page that looks just like this one: 
 
 ![Karma desktop design](./homepage-desktop.png)
